@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
-
-- 🔭 I am developer, with over 15 years of experience and certified SCRUM MASTER.  For more information click on about me. I’m currently working on HCFAMEMA, a public hospital of Marília city, São Paulo, Brazil.
+- 🔭 I am developer, with over 15 years of experience and certified SCRUM MASTER. I worked as a developer, tech lead, architect, engineer, data analyst. For more details, visit https://ferrerallan.github.io 
 - ⚡ Fun fact: I'm a guitarist and magical soccer player in my spare time
 
